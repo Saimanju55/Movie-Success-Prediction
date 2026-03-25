@@ -44,6 +44,6 @@ TMDB 5000 Movies Dataset
 
  🚀 How to Run
 
-1. Open notebook.ipynb in Jupyter/Colab
+1. Open Movie_Success_Prediction_.ipynb in Jupyter/Colab
 
 2. Run all cells
